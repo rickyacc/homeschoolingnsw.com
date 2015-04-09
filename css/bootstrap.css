@@ -1,7 +1,7 @@
 /*!
  * Bootstrap v3.3.4 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (//github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
@@ -188,7 +188,7 @@ td,
 th {
   padding: 0;
 }
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+/*! Source: //github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
   *:before,
@@ -1081,7 +1081,7 @@ th {
           box-sizing: border-box;
 }
 html {
-  font-size: 10px;
+  font-size: 16px;
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -6587,29 +6587,30 @@ button.close {
 /*======================================================== CUSTOM CSS ========================================================
 ============================================================================================================================================*/
 /*----------------- Typography -----------------*/
-h1{font-family: 'Open Sans', sans-serif;
-  font-size: 5rem;
+h1{font-family: 'Josefin Sans', sans-serif;
+  font-size: 3rem;
   line-height: 1.2em;
   letter-spacing: -2px;
   text-indent: -3px;
   font-weight:bold;
   color:#303538;
 }
-h2{font-family: 'Open Sans', sans-serif; font-weight: 400; text-transform: uppercase;}
-h3{font-family: 'Open Sans', sans-serif;}
-p{font-family: 'Noto Serif', serif;}
-i{font-family: 'Noto Serif', serif;}
-b{font-family: 'Noto Serif', serif;}
+h2{font-family: 'Josefin Sans', sans-serif; font-weight: 400; text-transform: uppercase;}
+h3{font-family: 'Josefin Sans', sans-serif;}
+p{font-family: 'Muli', sans-serif;}
+i{font-family: 'Muli', sans-serif;}
+b{font-family: 'Muli', sans-serif;}
 
 /*----------------- Common styling -----------------*/
 body {
   height: 100%;
   max-height: 100%;
-  font-family: 'Noto Serif', serif;
-  font-size: 2.0rem;
+  font-family: 'Muli', sans-serif;
+  font-size: 1.0rem;
   line-height: 1.6em;
   color: #3A4145;
-  background-color:#303538;
+  background-color:#e9ddc7;
+  background-image:url(http://subtlepatterns.com/patterns/school.png);
 }
 
 .inner {
@@ -6621,45 +6622,51 @@ body {
 
 /*----------------- HEADER -----------------*/
 
+#top-description{height:1.7rem; text-align:center;}
+#top-description p{font-size:.8rem; color:#ffffff;}
+
+
 .header {
   position: relative;
   display: table;
   width: 100%;
-  padding: 3% 0;
+  min-height: 300px;
   text-align: center;
   color: #fff;
   background: #303538 no-repeat center center;
   background-size: cover;
+  background-image: url('../img/header-banner-img.jpg');
 }
 
 .header h1{text-transform:uppercase; color:#fff;}
 
 .logo{
   display: block;
-  max-height: 140px;
-  width: auto;
-  margin: 0 auto;
+  height: auto;
+  width: 24rem;
+  clear: both;
+  margin: 2rem 6rem;
   line-height: 0;
 }
 
-.tagline{font-size: 2rem; font-weight: 300;}
+
+.tagline{font-size: 1rem; font-weight: 300;}
 
 /*----------------- ARTICLE/POST STYLING -----------------*/
 
 .main-area{
-  background-color:#fff;
-  padding: 2rem 0;
+
+  padding: 1.5rem;
 }
 
 .main-area a{text-decoration:underline;}
 
 .post {
   position: relative;
-  width: 80%;
-  max-width: 700px;
-  margin: 4rem auto;
+  margin: 1rem auto 2rem;
   word-break: break-word;
   hyphens: auto;
+  background-color:#e9ddc7;
 }
 
 .post-title {
@@ -6668,10 +6675,45 @@ body {
 
 .post-meta {
   margin: 0 0 5px 0;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1.5rem;
-  color: #9EABB3;
+  font-family: 'Muli', sans-serif;
+  font-size: 1rem;
+  color: #667F9C;
 }
+
+.post-thumb {
+  margin: 0 15px 15px 0;
+  max-height: 170px;
+  overflow: hidden;
+  display: block;
+  float: left;
+}
+
+/*----------------- Sidebar -----------------*/
+aside{background-color:#e9ddc7;}
+.sidebar{  padding-left:20px; background-color:#e9ddc7; padding-top: 1.5rem;}
+.sidebar h1{color:#303538; font-size:2rem;}
+.sidebar a,
+.sidebar p{}
+
+#featured-posts p{color:#FFFBF3;}
+
+
+#featured-posts ul {
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.caption{color:#667F9C;}
+
+#featured-tags p{color:#303538;}
+#featured-tags ul{margin:0px;padding:0px;}
+#featured-tags li{font-size: 1rem; list-style-type: none; display:inline-block; padding: 7px 1px; }
+#featured-tags li a{ border: solid 1px #E7E1D4; background-color: #fff; padding: 3px 7px; }
+#featured-tags li a:hover{ border: solid 1px #fff; background-color: #E7E1D4; color:#fff; padding: 3px 7px; text-decoration:none;}
+
+
+
+
 
 /*----------------- SITE FOOTER -----------------*/
 
@@ -6683,5 +6725,5 @@ body {
   padding: 2rem 0;
   font-size: 1.8rem;
   color: #fff;
-  background: #303538;
+  background: #69645A;
 }
