@@ -6627,10 +6627,11 @@ body {
 
 
 .header {
+  border-bottom: 10px solid #fff;
   position: relative;
   display: table;
   width: 100%;
-  min-height: 300px;
+  min-height: 400px;
   text-align: center;
   color: #fff;
   background: #303538 no-repeat center center;
