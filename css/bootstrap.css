@@ -6693,7 +6693,7 @@ aside{background-color:#e9ddc7;}
 .sidebar a,
 .sidebar p{}
 
-#featured-posts p{color:#FFFBF3;}
+#featured-posts p{color:#667F9C;}
 
 
 #featured-posts ul {
@@ -6726,3 +6726,5 @@ aside{background-color:#e9ddc7;}
   color: #fff;
   background: #69645A;
 }
+
+.footer p{font-size:1rem;}
