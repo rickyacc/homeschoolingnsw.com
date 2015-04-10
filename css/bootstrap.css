@@ -6718,6 +6718,7 @@ aside{background-color:#e9ddc7;}
 /*----------------- SITE FOOTER -----------------*/
 
 .footer {
+  border-top: 10px solid #fff;
   min-height:200px;
   position: relative;
   display: table;
