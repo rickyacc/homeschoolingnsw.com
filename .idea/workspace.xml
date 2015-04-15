@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.1538463" vertical-offset="615" max-vertical-offset="2130">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.6538463" vertical-offset="405" max-vertical-offset="2400">
+              <caret line="46" column="335" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="335" />
               <folding />
             </state>
           </provider>
@@ -38,18 +38,18 @@
       <file leaf-file-name="what-everybody-needs-to-know-about-homeschool-curriculum.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/what-everybody-needs-to-know-about-homeschool-curriculum.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="29.375" vertical-offset="825" max-vertical-offset="2070">
-              <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+            <state vertical-scroll-proportion="11.208333" vertical-offset="1049" max-vertical-offset="2130">
+              <caret line="52" column="335" selection-start-line="52" selection-start-column="335" selection-end-line="52" selection-end-column="335" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secrets-to-homeschooling-in-nsw.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="secrets-to-homeschooling-in-nsw.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/secrets-to-homeschooling-in-nsw.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48566142" vertical-offset="660" max-vertical-offset="2205">
-              <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="20" />
+            <state vertical-scroll-proportion="5.0" vertical-offset="855" max-vertical-offset="2220">
+              <caret line="49" column="335" selection-start-line="49" selection-start-column="335" selection-end-line="49" selection-end-column="335" />
               <folding />
             </state>
           </provider>
@@ -58,18 +58,18 @@
       <file leaf-file-name="do-you-make-these-common-home-schooling-mistakes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/do-you-make-these-common-home-schooling-mistakes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.8333335" vertical-offset="824" max-vertical-offset="2220">
-              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            <state vertical-scroll-proportion="8.083333" vertical-offset="929" max-vertical-offset="2235">
+              <caret line="49" column="335" selection-start-line="49" selection-start-column="335" selection-end-line="49" selection-end-column="335" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="who-else-wants-stress-free-homeschooling.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="who-else-wants-stress-free-homeschooling.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/who-else-wants-stress-free-homeschooling.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="2055">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.6105458" vertical-offset="990" max-vertical-offset="2370">
+              <caret line="91" column="329" selection-start-line="91" selection-start-column="329" selection-end-line="91" selection-end-column="329" />
               <folding />
             </state>
           </provider>
@@ -181,7 +181,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="945" y="39" width="1585" height="1225" extended-state="1" />
+    <frame x="945" y="39" width="1585" height="1225" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -192,7 +192,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23914452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23914452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -266,42 +266,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/who-else-wants-stress-free-homeschooling.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="2355">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.1538463" vertical-offset="615" max-vertical-offset="2130">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/what-everybody-needs-to-know-about-homeschool-curriculum.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="29.375" vertical-offset="825" max-vertical-offset="2070">
-          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        <state vertical-scroll-proportion="-3.6538463" vertical-offset="405" max-vertical-offset="2400">
+          <caret line="46" column="335" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="335" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/do-you-make-these-common-home-schooling-mistakes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.8333335" vertical-offset="824" max-vertical-offset="2220">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        <state vertical-scroll-proportion="8.083333" vertical-offset="929" max-vertical-offset="2235">
+          <caret line="49" column="335" selection-start-line="49" selection-start-column="335" selection-end-line="49" selection-end-column="335" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/secrets-to-homeschooling-in-nsw.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48566142" vertical-offset="660" max-vertical-offset="2205">
-          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="20" />
+        <state vertical-scroll-proportion="5.0" vertical-offset="855" max-vertical-offset="2220">
+          <caret line="49" column="335" selection-start-line="49" selection-start-column="335" selection-end-line="49" selection-end-column="335" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/what-everybody-needs-to-know-about-homeschool-curriculum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.208333" vertical-offset="1049" max-vertical-offset="2130">
+          <caret line="52" column="335" selection-start-line="52" selection-start-column="335" selection-end-line="52" selection-end-column="335" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/who-else-wants-stress-free-homeschooling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6105458" vertical-offset="990" max-vertical-offset="2370">
+          <caret line="91" column="329" selection-start-line="91" selection-start-column="329" selection-end-line="91" selection-end-column="329" />
           <folding />
         </state>
       </provider>
