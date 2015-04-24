@@ -6645,7 +6645,7 @@ header a:hover{text-decoration:none; color:#337ab7;}
 
 
 .logo{
-  float:left;
+  float:right;
   display: block;
   height: auto;
   width: 24rem;
