@@ -14,3 +14,17 @@ Header set Cache-Control "max-age=172800, proxy-revalidate"
 <FilesMatch "\.(txt)$">
 Header set Cache-Control "max-age=3600, private, proxy-revalidate"
 </FilesMatch>
+
+
+SetEnvIfNoCase User-Agent .*rogerbot.* bad_bot
+SetEnvIfNoCase User-Agent .*exabot.* bad_bot
+SetEnvIfNoCase User-Agent .*mj12bot.* bad_bot
+SetEnvIfNoCase User-Agent .*dotbot.* bad_bot
+SetEnvIfNoCase User-Agent .*gigabot.* bad_bot
+SetEnvIfNoCase User-Agent .*ahrefsbot.* bad_bot
+SetEnvIfNoCase User-Agent .*sitebot.* bad_bot
+<Limit GET POST HEAD>
+Order Allow,Deny
+Allow from all
+Deny from env=bad_bot
+</Limit>​
